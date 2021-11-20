@@ -1,3 +1,5 @@
 # veganStore
 
-site link https://github.com/Piyush-0210/veganStore/settings
+Build using Html and Css only
+
+VEGAN STORE:- https://piyush-0210.github.io/veganStore/
